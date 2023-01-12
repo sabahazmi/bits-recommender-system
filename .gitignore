@@ -1,0 +1,11 @@
+.idea
+__pycache__
+.ipynb_checkpoints
+app.yaml
+database.ini
+gurucool.sql
+new.ipynb
+test.py
+test2.py
+User Details.csv
+BITS -- Recommender Generation.ipynb
