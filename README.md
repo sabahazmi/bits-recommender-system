@@ -1,6 +1,6 @@
-# **BITS Recommender System** **|** **Padhaai App**
-##### https://padhaai.gurucool.xyz/bits
-
+# **Intelligent Content Recommendation System** **<a href="https://www.researchgate.net/publication/372518685_Intelligent_Content_Recommendation_System" target="_blank">📄</a> <a href="https://padhaai.gurucool.xyz/bits" target="_blank">🔗</a>**
+  
+  
 This project is an in-house project for .
 The Padhaai App has a feature for bits, a short 30 seconds video platform which is similar to Instagram Reels and YouTube shorts.
 
